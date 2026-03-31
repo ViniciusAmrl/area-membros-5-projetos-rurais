@@ -1,0 +1,71 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Galinheiro Funcional",
+      "time": "2-3 dias",
+      "cost": "R$80-180",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "materials": [
+        "Assistir aula de Fundações e Nivelamento",
+        "Comprar mourões tratados (4 unidades de 1.8m)",
+        "Areia e Brita para o alicerce",
+        "Tela galvanizada (malha pinteiro)",
+        "Instalar dobradiças na porta principal"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Estufa Túnel",
+      "time": "1-2 dias",
+      "cost": "R$120-220",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "materials": [
+        "Separar os canos de PVC (1/2 polegada)",
+        "Comprar plástico leitoso ou lona de estufa agrícola",
+        "Estacas de madeira para sustentação lateral",
+        "Arame galvanizado para amarração"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Viveiro de Mudas",
+      "time": "1-2 dias",
+      "cost": "R$60-150",
+      "videoUrl": "",
+      "materials": [
+        "Sombrite 50% ou 70% (dependendo da região)",
+        "Bandejas germinadoras",
+        "Substrato para mudas rico em nutrientes",
+        "Madeira para construção das bancadas (pallet recomendado)"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Composteira 3 Estágios",
+      "time": "½ dia",
+      "cost": "R$0-120",
+      "videoUrl": "",
+      "materials": [
+        "3 caixas plásticas resistentes ou baldes com tampa",
+        "Furadeira com broca para drenagem e oxigenação",
+        "Torneira plástica para coleta de chorume",
+        "Serragem fina ou folhas secas (matéria seca)",
+        "Minhocas Californianas (opcional)"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Secador Solar",
+      "time": "1-2 dias",
+      "cost": "R$50-130",
+      "videoUrl": "",
+      "materials": [
+        "Estrutura com sobras de madeira ou pallet",
+        "Vidro temperado antigo ou plástico transparente resistente",
+        "Tela mosquiteira (alumínio de preferência)",
+        "Tinta preta atóxica para o fundo (absorção de calor)"
+      ]
+    }
+  ]
+}

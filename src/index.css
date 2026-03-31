@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sora: "Sora", sans-serif;
+  --font-dmsans: "DM Sans", sans-serif;
+  
+  --color-brand: #8BC34A;
+  --color-brand-light: #aed581;
+  --color-brand-dark: #689f38;
+  
+  --color-surface-1: #121214;
+  --color-surface-2: #202024;
+  --color-surface-3: #29292e;
+}
+
+@layer utilities {
+  .glass-panel {
+    @apply bg-surface-2/60 backdrop-blur-md border border-white/5 rounded-2xl;
+  }
+}
